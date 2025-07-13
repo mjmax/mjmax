@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mjmax
-- 👀 I’m interested in programming, control theory, signal processing, reserch in electronics and conrol theory
+- 👀 I’m interested in PCB designing, programming, signal processing, control systems, and electronic product development
 - 💞️ I’m looking to collaborate on industrial projects in the above specified areas
 - 📫 janakam227@gmail.com
 
