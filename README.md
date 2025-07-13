@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mjmax
 - 👀 I’m interested in programming, control theory, signal processing, reserch in electronics and conrol theory
-- 🌱 I’m currently following my Ph.D in control theory and signal processing
 - 💞️ I’m looking to collaborate on industrial projects in the above specified areas
 - 📫 janakam227@gmail.com
 
